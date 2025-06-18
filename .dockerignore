@@ -1,0 +1,6 @@
+env/
+__pycahe__/
+
+*.env
+*.env.*
+env.*
